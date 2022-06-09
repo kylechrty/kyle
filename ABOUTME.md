@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kylecharity
+- 👋 Hi, I’m @kylechrty
 - 👀 I’m interested in becoming a back-end engineer
 - 🌱 I’m currently learning Javascript through free platforms like CSX, FreeCodeCamp, Leetcode, Codewars, and Codecademy.
 - 💞️ I’m looking to collaborate on literally anything! I am new here and want to learn as much as I can!
